@@ -1,0 +1,72 @@
+/*General stuff*/
+body {
+    position: relative;
+}
+
+.btn-primary {
+    background-color: #53B7D7;
+    border: none; 
+}
+
+.btn-primary:hover {
+    background-color: #4493AD;
+}
+
+.border {
+    border-style: dashed; 
+    border: 5px; 
+}
+
+/*Container 1*/
+.headerOne {
+    margin-top: 40px; 
+}
+
+.buttonHomePage {
+    margin-bottom: 40px;
+}
+
+
+.spaceForHomeBanner {
+    height: 240px;
+    display: flex;
+    background-color: 
+}
+
+.containerOne {
+    background-image: url(images/stockPhoto1Test2.jpg);
+    height: 65%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/*Container 2*/
+.containerTwo {
+    padding-left: 50px; 
+    padding-right: 50px;
+    margin-top: 50px; 
+    margin-bottom: 50px;
+}
+
+
+/* Container Three */
+
+/* Container Four */
+.containerFour {
+    background-image: url("images/homeTechnicianTest.jpg");
+    height: 50%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.headerContainerFour {
+    height: 100%
+}
+
+/* Container Five */
+.containerFive {
+    margin-top: 40px; 
+    margin-bottom: 100px; 
+}
